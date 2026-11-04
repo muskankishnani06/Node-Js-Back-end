@@ -1,0 +1,28 @@
+{
+  "name": "node.js-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch 01_Examples/03_responseEx3.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskankishnani06/Node-Js-Back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/muskankishnani06/Node-Js-Back-end/issues"
+  },
+  "homepage": "https://github.com/muskankishnani06/Node-Js-Back-end#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14",
+    "watch": "^1.0.2"
+  }
+}
